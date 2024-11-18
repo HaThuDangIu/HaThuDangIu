@@ -1,6 +1,6 @@
 - Hi i am HaThu
 - Js / Html / Css / Python
-- Current Learning : Python
+- Current Learning : Python, Javascript
 - Fav : Eat food! yum yum
 - 2 year experience coding
 
