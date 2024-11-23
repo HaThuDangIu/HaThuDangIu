@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript**
 
-- 📫 How to reach me **hathudangiu2008@gmail.com**
+- 📫 How to reach me **hathudangiu2008@gmail.com** or discord : **harryhathu._.**
 
 - ⚡ Fun fact **I am alway eating something about to ready work**
 
