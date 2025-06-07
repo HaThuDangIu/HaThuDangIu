@@ -14,7 +14,7 @@ I'm Ha Thu — not exactly a professional developer, but I love experimenting, l
 - Python
 
 
-Besides, I also have other hobbies like watching anime or eating secretly hihi ;-;
+<sub>Besides, I also have other hobbies like watching anime or eating secretly hihi ;-;</sub>
 ---
 
 ## ⚙️ Tools & Tech I Like
