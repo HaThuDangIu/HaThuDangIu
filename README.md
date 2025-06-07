@@ -13,6 +13,8 @@ I'm Ha Thu — not exactly a professional developer, but I love experimenting, l
 - JavaScript
 - Python
 
+
+Besides, I also have other hobbies like watching anime or eating secretly hihi ;-;
 ---
 
 ## ⚙️ Tools & Tech I Like
