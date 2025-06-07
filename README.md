@@ -1,7 +1,14 @@
-<h1 align="center">👋 Hi, I'm Ha Thu!</h1>
 <p align="center">
-   A tech enthusiast who loves <b>JavaScript</b> & <b>Python</b><br>
-   Always curious, always building.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ha+Thu!;Tech+Enthusiast+%F0%9F%94%A5;JavaScript+%26+Python+Lover;Always+Curious%2C+Always+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=%F0%9F%91%8B+Hello%2C+I'm+Ha+Thu!&fontSize=35&fontAlignY=40&animation=twinkling" />
+</p>
+
+<p align="center">
+   <b>A tech enthusiast who loves JavaScript & Python</b><br>
+   <i>Always curious, always building.</i>
 </p>
 
 ---
