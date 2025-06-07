@@ -11,7 +11,6 @@
   <i><b>Tech with a touch of cuteness ~</b></i><br>
   <sub>Stay cozy, stay curious (≧◡≦) ♡</sub>
 </p>
----
 
 ## 🧠 About Me
 
