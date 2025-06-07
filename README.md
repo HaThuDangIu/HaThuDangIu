@@ -16,8 +16,7 @@
 
 I'm Ha Thu — not exactly a professional developer, but I love experimenting, learning, and creating cool things with code. I enjoy working with:
 <p align="center">
-JavaScript
-Python
+<i><b>JavaScript, Python</b></i><br>
 </p>
 
 <p align="center">
