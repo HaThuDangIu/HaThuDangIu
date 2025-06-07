@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f9/b2/3a/f9b23a6ceecfa73f4a22fd63fd0bfc15.gif" height="250" alt="Cute Anime Girl" />
+  <img src="https://ih1.redbubble.net/image.5090039015.1125/st%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.u9.jpg" height="250" alt="Cute Anime Girl" />
 </p>
 
 <p align="center">
