@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ha+Thu!;Tech+Enthusiast+%F0%9F%94%A5;JavaScript+%26+Python+Lover;Always+Curious%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=140&section=header&text=%F0%9F%8C%B8%20Hi~%20I'm%20Ha%20Thu!%20%F0%9F%92%95&fontSize=35&fontAlignY=40&fontColor=FAE1DD&animation=twinkling&desc=welcome+to+my+cozy+code+corner!&descAlign=70&descAlignY=60&descSize=16" />
+</p>
+
+<!-- Typing effect in cute pastel tone -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=🌸+Ha+Thu+here!;💻+Coding+with+JavaScript+%26+Python;🧋+Snack+Lover+%2B+Anime+Fan;✨+Let%E2%80%99s+build+something+magical!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=%F0%9F%91%8B+Hello%2C+I'm+Ha+Thu!&fontSize=35&fontAlignY=40&animation=twinkling" />
+  <i><b>Tech with a touch of cuteness ~</b></i><br>
+  <sub>Stay cozy, stay curious (≧◡≦) ♡</sub>
 </p>
-
-<p align="center">
-   <b>A tech enthusiast who loves JavaScript & Python</b><br>
-   <i>Always curious, always building.</i>
-</p>
-
 ---
 
 ## 🧠 About Me
