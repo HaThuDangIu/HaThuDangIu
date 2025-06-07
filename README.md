@@ -43,7 +43,7 @@ I'm Ha Thu — not exactly a professional developer, but I love experimenting, l
 
 ## 📫 Contact
 
-- Discord: [`HaThuDangIu`](https://discord.com/users/HaThuDangIu)
+- Discord: [`HaThuDangIu`](https://discord.com/users/harryhathu._.)
 
 ---
 
