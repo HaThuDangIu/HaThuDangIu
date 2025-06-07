@@ -15,10 +15,10 @@
 ## 🧠 About Me
 
 I'm Ha Thu — not exactly a professional developer, but I love experimenting, learning, and creating cool things with code. I enjoy working with:
-
-- JavaScript
-- Python
-
+<p align="center">
+JavaScript
+Python
+</p>
 
 <p align="center">
   <sub>🍜 Besides, I also enjoy watching anime and secretly eating snacks hehe ~ (≧◡≦)</sub>
