@@ -2,11 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=1200&color=FFB6C1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Ha+Thu!;Loves+JavaScript+%26+Python+%F0%9F%94%A5;Always+curious%2C+always+building+%F0%9F%92%BB;Let%E2%80%99s+code+something+cute+~+%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://i.ibb.co/mFCBnPpW/st-small-507x507-pad-600x600-f8f8f8-u9-removebg-preview.png" height="200" alt="cuteeeeee" />
-</p>
-
 <p align="center">
   <i><b>Tech with a touch of cuteness ~</b></i><br>
   <sub>Stay cozy, stay curious (≧◡≦) ♡</sub>
