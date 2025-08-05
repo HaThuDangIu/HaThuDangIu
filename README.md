@@ -48,12 +48,10 @@
 
 <p align="center">
   <picture>
-    <!-- Ảnh cho Dark Mode: Rắn hồng trên nền tối, các chấm màu tím -->
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/main/dist/github-contribution-grid-snake-dark.svg?color_snake=#FFB6C1&color_dots=#9370DB,#8A2BE2,#4B0082,#6A5ACD"
     />
-    <!-- Ảnh cho Light Mode (mặc định): Rắn tím trên nền sáng, các chấm màu hồng -->
     <img
       alt="Snake Contribution Grid"
       src="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/main/dist/github-contribution-grid-snake.svg?color_snake=blueviolet&color_dots=#FFB6C1,#FFC0CB,#DB7093,#FF69B4"
@@ -69,7 +67,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/harryhathu._." target="_blank">
-    <img src="https://img.shields.io/badge/Discord-HaThuDangIu-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-harryhathu._.-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
