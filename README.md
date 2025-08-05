@@ -37,6 +37,10 @@ Hi there! I’m Ha Thu — not a pro dev, but I love exploring and building fun 
 
 ## 🐍 Contribution
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/main/dist/github-contribution-grid-snake.svg" alt="Snake Contribution Grid" />
+</p>
+
 ---
 
 ## 📫 Contact Me
