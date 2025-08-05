@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
 <p align="center">
   Hi there! I’m Ha Thu — not a pro dev, but I love exploring and building fun stuff with:
@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 My GitHub Stats
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&theme=transparent&title_color=FFB6C1&text_color=c9d1d9&icon_color=FFB6C1&hide_border=true" />
@@ -32,7 +32,7 @@
 
 ---
 
-## ⚙️ Tools & Tech
+<h2 align="center">⚙️ Tools & Tech</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## 🐍 Contribution
+<h2 align="center">🐍 Contribution</h2>
 
 <p align="center">
   <picture>
@@ -63,7 +63,7 @@
 
 ---
 
-## 📫 Contact Me
+<h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
   <a href="https://discord.com/users/harryhathu._." target="_blank">
