@@ -11,9 +11,9 @@
 
 ## 🧠 About Me
 
-Hi there! I’m Ha Thu — not a pro dev, but I love exploring and building fun stuff with:
-
 <p align="center">
+  Hi there! I’m Ha Thu — not a pro dev, but I love exploring and building fun stuff with:
+  <br>
   <b>JavaScript</b> & <b>Python</b>
 </p>
 
