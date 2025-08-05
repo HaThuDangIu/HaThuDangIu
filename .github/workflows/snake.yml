@@ -1,7 +1,7 @@
-
+# Tên của workflow
 name: Generate Snake Contribution
 
-
+# Chạy workflow này theo lịch trình (mỗi 12 tiếng) và khi có push vào nhánh main
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -10,35 +10,40 @@ on:
     branches:
       - main
 
+# THÊM ĐOẠN NÀY VÀO
+# Cấp quyền ghi cho Action để nó có thể commit file vào repo
+permissions:
+  contents: write
 
+# Các công việc sẽ được thực thi
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-
+      # Step 1: Checkout code từ repository để action có thể ghi file vào
       - uses: actions/checkout@v3
 
-
+      # Step 2: Chạy action để tạo ảnh con rắn
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-
+          # Tên người dùng GitHub của bạn
           github_user_name: ${{ github.repository_owner }}
 
-
+          # Các file output sẽ được tạo ra
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-
+        # Cung cấp quyền cho action để commit file
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-
+      # Step 3: Commit và push file ảnh đã tạo vào repository
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           directory: dist
-          force: true 
+          force: true
