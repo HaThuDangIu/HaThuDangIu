@@ -23,14 +23,23 @@ Hi there! I’m Ha Thu — not a pro dev, but I love exploring and building fun 
 
 ---
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&theme=transparent&title_color=FFB6C1&text_color=c9d1d9&icon_color=FFB6C1&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&layout=compact&theme=transparent&title_color=FFB6C1&text_color=c9d1d9&hide_border=true" />
+</p>
+
+---
+
 ## ⚙️ Tools & Tech
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tampermonkey-000000?style=flat-square&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Tampermonkey-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Tampermonkey"/>
 </p>
 
 ---
@@ -38,14 +47,20 @@ Hi there! I’m Ha Thu — not a pro dev, but I love exploring and building fun 
 ## 🐍 Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/main/dist/github-contribution-grid-snake.svg" alt="Snake Contribution Grid" />
+  <img src="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/main/dist/github-contribution-grid-snake.svg?color_snake=blueviolet&color_dots=#FFB6C1,#FFC0CB,#DB7093,#FF69B4" alt="Snake Contribution Grid" />
+  <br>
+  <sub><i>Chú rắn đang măm măm các đóng góp của mình đó (´• ω •`) ♡</i></sub>
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- Discord: [`HaThuDangIu`](https://discord.com/users/harryhathu._.)
+<p align="center">
+  <a href="https://discord.com/users/harryhathu._." target="_blank">
+    <img src="https://img.shields.io/badge/Discord-HaThuDangIu-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ---
 
