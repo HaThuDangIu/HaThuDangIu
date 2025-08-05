@@ -35,13 +35,6 @@ Hi there! I’m Ha Thu — not a pro dev, but I love exploring and building fun 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaThuDangIu&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20HaThu-blueviolet?style=flat-square"/>
-</p>
-
 ## 🐍 Contribution
 
 <p align="center">
