@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/harryhathu._." target="_blank">
-    <img src="https://img.shields.io/badge/Discord-harryhathu._.-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-harryhathu.__.-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
