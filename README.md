@@ -16,7 +16,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&hide_border=true&theme=github_dark&title_color=6A5ACD&icon_color=6A5ACD" 
