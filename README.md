@@ -24,17 +24,17 @@
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&hide_border=true&theme=default&title_color=6A5ACD&icon_color=6A5ACD" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&hide_border=true" alt="stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&hide_border=true" alt="stats"/>
   </picture>
-  
+
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&layout=compact&hide_border=true&theme=github_dark&title_color=6A5ACD" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&hide_border=true&theme=github_dark&title_color=6A5ACD" 
       media="(prefers-color-scheme: dark)" />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&layout=compact&hide_border=true&theme=default&title_color=6A5ACD" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&hide_border=true&theme=default&title_color=6A5ACD" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&layout=compact&hide_border=true" alt="top langs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&hide_border=true" alt="top langs"/>
   </picture>
 </p>
 
@@ -44,18 +44,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,vscode,linux,git,github&theme=dark" />
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ---
