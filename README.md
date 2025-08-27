@@ -35,7 +35,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/main/dist/github-contribution-grid-snake.svg?color_snake=blueviolet&color_dots=#FFB6C1,#FFC0CB,#DB7093,#FF69B4" alt="snake animation"/>
 </p>
 
 ---
