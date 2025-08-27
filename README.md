@@ -1,30 +1,46 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=FF00FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ha+Thu+%F0%9F%92%9C;Tech+with+a+touch+of+cuteness+%7E;Building+fun+stuff+with+JS+%26+Python;Anime+%2B+Coding+%3D+My+vibe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hey+I'm+Ha+Thu;Code.+Anime.+Repeat.;Exploring+JS+%26+Python" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">🌌 About Me</h2>
+<h2 align="center">👤 About Me</h2>
 
 <p align="center">
-  <i>Just a curious soul wandering between <b>anime worlds</b> and <b>lines of code</b>...</i><br><br>
-  ✨ Languages I enjoy: <b>JavaScript</b> • <b>Python</b> <br>
-  🍜 Hobby: Anime marathons + midnight snacks <br>
-  ⚡ Motto: <i>“Stay cozy, stay curious.”</i>
+  <i>Not a pro dev — just a curious mind who codes, watches anime, and snacks at midnight.</i><br><br>
+  🖤 Languages I use: <b>JavaScript</b> • <b>Python</b><br>
+  ⚡ Motto: <i>"Clean, minimal, powerful."</i>
 </p>
 
 ---
 
-<h2 align="center">⚡ My GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&theme=radical&hide_border=true&title_color=FF00FF&icon_color=9370DB&text_color=c9d1d9&bg_color=0,000000,1a1a1a" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&layout=compact&theme=radical&hide_border=true&title_color=FF00FF&text_color=c9d1d9&bg_color=0,000000,1a1a1a" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&hide_border=true&theme=github_dark&title_color=6A5ACD&icon_color=6A5ACD" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&hide_border=true&theme=default&title_color=6A5ACD&icon_color=6A5ACD" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&hide_border=true" alt="stats"/>
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&layout=compact&hide_border=true&theme=github_dark&title_color=6A5ACD" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&layout=compact&hide_border=true&theme=default&title_color=6A5ACD" 
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&layout=compact&hide_border=true" alt="top langs"/>
+  </picture>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tools & Tech</h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,vscode,linux,git,github&theme=dark" />
@@ -35,22 +51,25 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/main/dist/github-contribution-grid-snake.svg?color_snake=blueviolet&color_dots=#FFB6C1,#FFC0CB,#DB7093,#FF69B4" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/HaThuDangIu/HaThuDangIu/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
+<h2 align="center">📫 Connect</h2>
 
 <p align="center">
   <a href="https://discord.com/users/harryhathu._.">
-    <img src="https://img.shields.io/badge/Discord-harryhathu.__.-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-harryhathu.__.-6A5ACD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaThuDangIu&label=Profile%20views&color=FF00FF&style=flat-square" />
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20by%20HaThu-FF00FF?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=HaThuDangIu&label=Profile%20views&color=6A5ACD&style=flat-square" />
 </p>
