@@ -16,10 +16,16 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&hide_border=true&theme=github_dark&title_color=6A5ACD&icon_color=6A5ACD" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&hide_border=true&theme=github_dark&title_color=6A5ACD" alt="top langs"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaThuDangIu&show_icons=true&hide_border=true&theme=github_dark&title_color=6A5ACD&icon_color=6A5ACD" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaThuDangIu&hide_border=true&theme=github_dark&title_color=6A5ACD" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
