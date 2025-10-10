@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/943149584069296129">
-    <img src="https://img.shields.io/badge/Discord-harryhathu.__.-6A5ACD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://lanyard.cnrad.dev/api/943149584069296129?showDisplayName=true&theme=dark&bg=000" alt="Discord Presence"/>
   </a>
 </p>
 
