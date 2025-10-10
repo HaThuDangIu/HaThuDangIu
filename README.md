@@ -40,7 +40,7 @@
 <h2 align="center">📫 Connect</h2>
 
 <p align="center">
-  <a href="https://discord.com/users/harryhathu._.">
+  <a href="https://discord.com/users/943149584069296129">
     <img src="https://img.shields.io/badge/Discord-harryhathu.__.-6A5ACD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
