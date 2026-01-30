@@ -15,10 +15,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Checkout code từ repository
       - uses: actions/checkout@v3
 
-      # Step 2: Tạo ảnh con rắn (giữ nguyên)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -29,13 +27,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Commit và push file (đây là phần được THAY ĐỔI)
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add dist/
-          # Chỉ commit khi có sự thay đổi trong thư mục dist
           if ! git diff --staged --quiet; then
             git commit -m "🐍 chore: update contribution snake"
             git push
