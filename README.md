@@ -1,6 +1,6 @@
 Hi! Mình là Ha Thu
-Mình thích copy những thứ trên mạng linh tinh thui :D
-Có gì ghé qua nhớ cho thu một 1 star nhaaa :3
+-Mình thích copy những thứ trên mạng linh tinh thui :D
+-Có gì ghé qua nhớ cho thu một 1 star nhaaa :3
 
 <h2 align="center">📫 Connect</h2>
 
