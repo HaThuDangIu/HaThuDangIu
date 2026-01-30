@@ -15,5 +15,5 @@ Có gì ghé qua nhớ cho thu một 1 star nhaaa :3
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaThuDangIu&label=Profile%20views&color=6A5ACD&style=flat-square&format=svg" />
+  <img src="https://komarev.com/ghpvc/?username=HaThuDangIu&label=Profile%20views&color=6A5ACD&style=flat-square&v=1" />
 </p>
